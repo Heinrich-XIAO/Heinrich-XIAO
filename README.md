@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, my name is Heinrich Xiao!</h1>
+<h1 align="center"> Hello, I'm Heinrich Xiao!</h1>
 
 <h3 align="I like and use fedora linux as a daily driver on my M1 Macbook Air</h3>
 
