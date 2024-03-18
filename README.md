@@ -15,7 +15,8 @@
  </a>
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=heinrich-xiao&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heinrich-xiao&theme=react&layout=compact" />
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=heinrich-xiao&theme=react&show_icons=true&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heinrich-xiao&theme=react&layout=compact"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=heinrich"/>
 </p>
