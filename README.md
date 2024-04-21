@@ -19,4 +19,5 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=heinrich-xiao&theme=react&show_icons=true&include_all_commits=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heinrich-xiao&theme=react&layout=compact"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=heinrich"/>
+  <img height="150" src="https://monkeytype-readme.com/generate-svg/heinrichxiao/gruvbox_light?pb=true"/>
 </p>
