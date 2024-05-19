@@ -1,6 +1,6 @@
-<h1 align="center"> Hello, I'm Heinrich Xiao!</h1>
+<h1 align="center">Hello, I'm Heinrich Xiao!</h1>
 
-<h3 align="center">I use Fedora Linux as a daily driver on my M1 Macbook Air</h3>
+<h3 align="center">I use Arch btw.</h3>
 
 <h3 align="center">Tools and Languages:</h3>
 
@@ -17,13 +17,11 @@
  <a href="https://www.haskell.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
  </a>
-
- https://www.haskell.org/
 </p>
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=heinrich-xiao&theme=react&show_icons=true&include_all_commits=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heinrich-xiao&theme=react&layout=compact"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=heinrich"/>
-  <img height="450" src="https://monkeytype-readme.com/generate-svg/heinrichxiao/gruvbox_light?pb=true"/>
+  <br/>
+  <img height="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=heinrich"/>
 </p>
