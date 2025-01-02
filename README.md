@@ -13,9 +13,13 @@
  <a href="https://www.python.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
  </a>
-  <!-- Python icon -->
- <a href="https://www.haskell.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/>
+  <!-- Dart icon -->
+ <a href="https://dart.dev" target="_blank">
+    <img src="https://dart.dev/assets/img/logo/logo-white-text.svg" alt="dart" width="40" height="40"/>
+ </a>
+  <!-- C++ icon -->
+ <a href="https://isocpp.org" target="_blank">
+    <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="c++" width="40" height="40"/>
  </a>
 </p>
 
