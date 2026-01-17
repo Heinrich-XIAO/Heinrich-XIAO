@@ -26,5 +26,8 @@
  <a href="https://kicad.org" target="_blank">
    <img height="40" alt="image" src="https://github.com/user-attachments/assets/c7d4bf95-27df-421e-85a9-b2a5ce7a8d9d" />
  </a>
+ <a href="https://tscircuit.com" target="_blank">
+   <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/0c03916b-4ad5-44f8-9f33-f96a4e4a614b" />
+ </a>
 </p>
 
