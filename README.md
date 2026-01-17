@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Heinrich Xiao!</h1>
 
-<h3 align="center">I use Arch btw.</h3>
+<h3 align="center">I love making hardware projects.</h3>
 
 <h3 align="center">Tools and Languages:</h3>
 
@@ -11,7 +11,7 @@
  </a> 
  <!-- Python icon -->
  <a href="https://www.python.org" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/230px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/>
+    <img width="230" height="230" alt="image" src="https://github.com/user-attachments/assets/e3a73a12-37d6-4d0a-b6b8-aa23874c439f" />
  </a>
   <!-- Dart icon -->
  <a href="https://dart.dev" target="_blank">
@@ -20,6 +20,11 @@
   <!-- C++ icon -->
  <a href="https://isocpp.org" target="_blank">
     <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="c++" width="40" height="40"/>
+ </a>
+ 
+  <!-- Kicad icon -->
+ <a href="https://kicad.org" target="_blank">
+   <img width="3840" height="1567" alt="image" src="https://github.com/user-attachments/assets/c7d4bf95-27df-421e-85a9-b2a5ce7a8d9d" />
  </a>
 </p>
 
