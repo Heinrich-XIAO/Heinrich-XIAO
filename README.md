@@ -1,12 +1,11 @@
 <h1 align="center">Hello, I'm Heinrich Xiao!</h1>
 
-<h3 align="center">I love making hardware projects.</h3>
+<h3>I love making hardware projects.</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Heinrich-XIAO)](https://git.io/streak-stats)
 
-<h3 align="center">Tools and Languages:</h3>
-
-<p align="center">
+<h3>Tools and Languages:</h3>
+<p>
  <!-- Node.js icon -->
  <a href="https://nodejs.org/en" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/9950313?s=48&v=4" alt="nodejs" width="40" height="40"/>
