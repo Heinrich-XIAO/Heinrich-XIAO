@@ -2,6 +2,8 @@
 
 <h3 align="center">I love making hardware projects.</h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Heinrich-XIAO)](https://git.io/streak-stats)
+
 <h3 align="center">Tools and Languages:</h3>
 
 <p align="center">
